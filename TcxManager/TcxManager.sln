@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.3
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcxManager", "TcxManager.csproj", "{9E1B1B65-4EAD-4A3C-833F-9F195B746498}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E1B1B65-4EAD-4A3C-833F-9F195B746498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E1B1B65-4EAD-4A3C-833F-9F195B746498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E1B1B65-4EAD-4A3C-833F-9F195B746498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E1B1B65-4EAD-4A3C-833F-9F195B746498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
